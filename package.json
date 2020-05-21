@@ -1,7 +1,7 @@
 {
-  "name": "react-redux-router",
+  "name": "James Hostetter's React Portfolio",
   "version": "1.0.0",
-  "description": "Basic skeleton codebase for React/Redux/Router applications.",
+  "description": "React portfolio for James Hostetter, as well as a blog manager.",
   "scripts": {
     "preinstall": "npm set audit false",
     "start": "webpack-dev-server --config webpack/dev.config.js --watch",
